@@ -1,0 +1,9 @@
+{
+id: 1,
+price: 12.5,
+checked: false,
+tags: [
+home,
+green
+]
+}
